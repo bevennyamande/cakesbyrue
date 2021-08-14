@@ -607,6 +607,8 @@ h1, h2, h3, h4, h5, h6 {
     padding-top: 130px;
     padding-bottom: 60px;
   }
+
+
 }
 
 @media (max-width: 768px) {
@@ -1727,4 +1729,12 @@ section {
   text-align: center;
   font-size: 13px;
   color: #fff;
+}
+
+
+@media screen and (max-width: 500px) {
+  .mobile-nav-toggle {
+    margin-left: 200px;
+}
+ 
 }
